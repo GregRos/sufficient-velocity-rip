@@ -1,0 +1,20 @@
+{
+  "name": "scan-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/cheerio": "^0.22.16",
+    "@types/lodash": "^4.14.149",
+    "@types/node-fetch": "^2.5.8",
+    "@types/request": "^2.48.4",
+    "@types/request-promise": "^4.1.45",
+    "@types/urijs": "^1.19.14",
+    "cheerio": "^1.0.0-rc.3",
+    "epub-gen": "^0.1.0",
+    "lodash": "^4.17.15",
+    "node-fetch": "^2.6.1",
+    "typescript": "^3.7.5",
+    "urijs": "^1.19.6"
+  }
+}
